@@ -1,5 +1,5 @@
-![Nexim Tech](../assets/sun.jpeg)
+![Nexim](../assets/sun.jpeg)
 
-# Nexim Tech
+# Nexim
 
 We Are Next: Innovating Tomorrow, Today. 🌟
